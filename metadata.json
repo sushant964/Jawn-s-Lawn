@@ -1,0 +1,6 @@
+{
+  "name": "Jawn's Lawns",
+  "description": "Premium, modern landscaping website for Jawn's Lawns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

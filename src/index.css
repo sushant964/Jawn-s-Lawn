@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest: #1B4332;
+  --color-earth: #6C584C;
+  --color-clay: #A47E6C;
+  --color-soft-white: #FBFBFB;
+  --color-deep-gray: #2D2D2D;
+  --font-sans: "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  background-color: var(--color-soft-white);
+  color: var(--color-deep-gray);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(27, 67, 50, 0.1);
+}
